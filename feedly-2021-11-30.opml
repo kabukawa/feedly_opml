@@ -1,0 +1,185 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<opml version="1.0">
+    <head>
+        <title>Kunihisa subscriptions in feedly Cloud</title>
+    </head>
+    <body>
+        <outline text="TechBlog" title="TechBlog">
+            <outline type="rss" text="Stories by ところてん on Medium" title="Stories by ところてん on Medium" xmlUrl="https://medium.com/feed/@tokoroten" htmlUrl="https://medium.com/@tokoroten?source=rss-dcded7eecf08------2"/>
+            <outline type="rss" text="タイム・コンサルタントの日誌から" title="タイム・コンサルタントの日誌から" xmlUrl="http://brevis.exblog.jp/index.xml" htmlUrl="http://brevis.exblog.jp"/>
+            <outline type="rss" text="あらびき日記" title="あらびき日記" xmlUrl="http://abicky.net/feed.xml" htmlUrl="https://abicky.net/"/>
+            <outline type="rss" text="渋谷駅前で働くデータサイエンティストのブログ" title="渋谷駅前で働くデータサイエンティストのブログ" xmlUrl="https://tjo.hatenablog.com/feed" htmlUrl="https://tjo.hatenablog.com/"/>
+            <outline type="rss" text="Faith and Brave - C++で遊ぼう" title="Faith and Brave - C++で遊ぼう" xmlUrl="http://d.hatena.ne.jp/faith_and_brave/rss2" htmlUrl="https://faithandbrave.hateblo.jp/"/>
+            <outline type="rss" text="rksoftware" title="rksoftware" xmlUrl="https://rksoftware.hatenablog.com/rss" htmlUrl="https://rksoftware.hatenablog.com/"/>
+            <outline type="rss" text="本の虫" title="本の虫" xmlUrl="http://cpplover.blogspot.com/feeds/posts/default?alt=rss" htmlUrl="https://cpplover.blogspot.com/"/>
+            <outline type="rss" text="ﾅｶﾞﾓﾄ の blog" title="ﾅｶﾞﾓﾄ の blog" xmlUrl="https://ngmt83.hatenablog.com/feed" htmlUrl="https://ngmt83.hatenablog.com/"/>
+            <outline type="rss" text="小野和俊のブログ" title="小野和俊のブログ" xmlUrl="http://blog.livedoor.jp/lalha/index.rdf" htmlUrl="http://blog.livedoor.jp/lalha/"/>
+            <outline type="rss" text="FSE サポート" title="FSE サポート" xmlUrl="http://www.kannon.link/free/feed/" htmlUrl="https://www.kannon.link/free"/>
+            <outline type="rss" text="たごもりすメモ" title="たごもりすメモ" xmlUrl="http://d.hatena.ne.jp/tagomoris/rss" htmlUrl="https://tagomoris.hatenablog.com/"/>
+            <outline type="rss" text="RSS" title="RSS" xmlUrl="https://medium.com/feed/@gggooottto" htmlUrl="https://medium.com/@gggooottto?source=rss-aea7f8593b19------2"/>
+            <outline type="rss" text="みずぴー日記" title="みずぴー日記" xmlUrl="http://mzp.hatenablog.com/feed" htmlUrl="https://mzp.hatenablog.com/"/>
+            <outline type="rss" text="Stories by V on Medium" title="Stories by V on Medium" xmlUrl="https://medium.com/feed/@voluntas" htmlUrl="https://medium.com/@voluntas?source=rss-f0ab18163247------2"/>
+            <outline type="rss" text="missasan's notebook" title="missasan's notebook" xmlUrl="https://missasan.hatenablog.com/feed" htmlUrl="https://missasan.hatenablog.com/"/>
+            <outline type="rss" text="inductor's blog" title="inductor's blog" xmlUrl="https://inductor.hatenablog.com/feed" htmlUrl="https://blog.inductor.me/"/>
+            <outline type="rss" text="はてだBlog（仮称）" title="はてだBlog（仮称）" xmlUrl="https://itdepends.hateblo.jp/feed" htmlUrl="https://itdepends.hateblo.jp/"/>
+            <outline type="rss" text="Fine Software Writings" title="Fine Software Writings" xmlUrl="http://feeds.feedburner.com/FineSoftwareWritings" htmlUrl="http://www.aoky.net"/>
+            <outline type="rss" text="かずきのBlog@hatena" title="かずきのBlog@hatena" xmlUrl="http://d.hatena.ne.jp/okazuki/rss" htmlUrl="https://blog.okazuki.jp/"/>
+            <outline type="rss" text="WETな備忘録" title="WETな備忘録" xmlUrl="http://before11.hatenablog.com/feed" htmlUrl="https://before11.hatenablog.com/"/>
+            <outline type="rss" text="Morning Girl" title="Morning Girl" xmlUrl="http://kageura.hatenadiary.jp/feed" htmlUrl="https://kageura.hatenadiary.jp/"/>
+            <outline type="rss" text="rbtnn雑記" title="rbtnn雑記" xmlUrl="http://rbtnn.hateblo.jp/rss" htmlUrl="https://rbtnn.hateblo.jp/"/>
+            <outline type="rss" text="clock-up-blog" title="clock-up-blog" xmlUrl="http://blog.clock-up.jp/feed" htmlUrl="https://blog.clock-up.jp/"/>
+            <outline type="rss" text="人間とウェブの未来" title="人間とウェブの未来" xmlUrl="http://hb.matsumoto-r.jp/feed" htmlUrl="https://hb.matsumoto-r.jp/"/>
+            <outline type="rss" text="RSS" title="RSS" xmlUrl="https://note.mu/haiero/rss" htmlUrl="https://note.com/haiero"/>
+            <outline type="rss" text="詩と創作・思索のひろば" title="詩と創作・思索のひろば" xmlUrl="http://motemen.hatenablog.com/feed" htmlUrl="https://motemen.hatenablog.com/"/>
+            <outline type="rss" text="おばけブログ" title="おばけブログ" xmlUrl="https://sakura818uuu.hatenadiary.com/feed" htmlUrl="https://sakura818uuu.hatenadiary.com/"/>
+            <outline type="rss" text="@amsy810's Blog" title="@amsy810's Blog" xmlUrl="https://amsy810.hateblo.jp/rss" htmlUrl="https://amsy810.hateblo.jp/"/>
+            <outline type="rss" text="運び屋 (A carrier(forwarder) changed his career to an engineer)" title="運び屋 (A carrier(forwarder) changed his career to an engineer)" xmlUrl="https://hakobiya.hatenablog.com/feed" htmlUrl="https://hakobiya.hatenablog.com/"/>
+            <outline type="rss" text="Stories by Masayuki Minato on Medium" title="Stories by Masayuki Minato on Medium" xmlUrl="https://medium.com/feed/@masayukiminato" htmlUrl="https://medium.com/@masayukiminato?source=rss-61ad4a567fe2------2"/>
+            <outline type="rss" text="Geek縺ｪ縺ｺ繝ｼ縺�" title="Geek縺ｪ縺ｺ繝ｼ縺�" xmlUrl="http://www.geekpage.jp/rss-feedburner.php" htmlUrl="https://www.geekpage.jp/"/>
+            <outline type="rss" text="よしたく blog" title="よしたく blog" xmlUrl="https://yoshitaku-jp.hatenablog.com/feed" htmlUrl="https://yoshitaku-jp.hatenablog.com/"/>
+            <outline type="rss" text="そこに仁義はあるのか(仮)" title="そこに仁義はあるのか(仮)" xmlUrl="http://syobochim.hatenablog.com/feed" htmlUrl="https://syobochim.hatenablog.com/"/>
+            <outline type="rss" text="tokuhirom's blog" title="tokuhirom's blog" xmlUrl="http://blog.64p.org/feed" htmlUrl="http://blog.64p.org"/>
+            <outline type="rss" text="golden-luckyの日記" title="golden-luckyの日記" xmlUrl="http://golden-lucky.hatenablog.com/feed" htmlUrl="https://golden-lucky.hatenablog.com/"/>
+            <outline type="rss" text="てくなべ (tekunabe)" title="てくなべ (tekunabe)" xmlUrl="http://tekunabe.hatenablog.jp/rss" htmlUrl="https://tekunabe.hatenablog.jp/"/>
+            <outline type="rss" text="Kazuho's Weblog" title="Kazuho's Weblog" xmlUrl="http://blog.kazuhooku.com/feeds/posts/default" htmlUrl="http://blog.kazuhooku.com/"/>
+            <outline type="rss" text="Stories by 角 征典 (@kdmsnr) on Medium" title="Stories by 角 征典 (@kdmsnr) on Medium" xmlUrl="https://medium.com/feed/@kdmsnr" htmlUrl="https://medium.com/@kdmsnr?source=rss-4672b491f061------2"/>
+            <outline type="rss" text="note to self:" title="note to self:" xmlUrl="https://dombri-dev.hateblo.jp/feed" htmlUrl="https://dombri-dev.hateblo.jp/"/>
+            <outline type="rss" text="kichijojipm’s blog" title="kichijojipm’s blog" xmlUrl="https://kichijojipm.hatenablog.com/rss" htmlUrl="https://kichijojipm.hatenablog.com/"/>
+            <outline type="rss" text="おごちゃんの雑文" title="おごちゃんの雑文" xmlUrl="http://www.nurs.or.jp/~ogochan/essay/feed" htmlUrl="http://www.nurs.or.jp/~ogochan/essay"/>
+            <outline type="rss" text="やっとむでぽん" title="やっとむでぽん" xmlUrl="http://d.hatena.ne.jp/yach/rss" htmlUrl="https://yattom.hatenablog.com/"/>
+            <outline type="rss" text="酒日記 はてな支店" title="酒日記 はてな支店" xmlUrl="http://d.hatena.ne.jp/sfujiwara/rss" htmlUrl="https://sfujiwara.hatenablog.com/"/>
+            <outline type="rss" text="Blog Posts (in Japanese) | Democratizing Data" title="Blog Posts (in Japanese) | Democratizing Data" xmlUrl="https://chezo.uno/post/index.xml" htmlUrl="https://chezo.uno/post/"/>
+            <outline type="rss" text="nabeo がピーしているブログ (仮)" title="nabeo がピーしているブログ (仮)" xmlUrl="https://nabeop.hatenablog.com/rss" htmlUrl="https://nabeop.hatenablog.com/"/>
+            <outline type="rss" text="つかびーの技術日記" title="つかびーの技術日記" xmlUrl="http://tsukaby.com/tech_blog/feed" htmlUrl="http://tech-blog.tsukaby.com"/>
+            <outline type="rss" text="SE の雑記" title="SE の雑記" xmlUrl="http://engineermemo.wordpress.com/feed/" htmlUrl="https://blog.engineer-memo.com"/>
+            <outline type="rss" text="紙一重の積み重ね" title="紙一重の積み重ね" xmlUrl="https://www.yokoyan.net/feed" htmlUrl="https://www.yokoyan.net/"/>
+            <outline type="rss" text="急がば回れ、選ぶなら近道" title="急がば回れ、選ぶなら近道" xmlUrl="http://d.hatena.ne.jp/okachimachiorz/rss" htmlUrl="https://okachimachiorz.hatenablog.com/"/>
+            <outline type="rss" text="k0kubun's blog" title="k0kubun's blog" xmlUrl="http://k0kubun.hatenablog.com/feed" htmlUrl="https://k0kubun.hatenablog.com/"/>
+            <outline type="rss" text="Masayuki Minato | 湊 雅之" title="Masayuki Minato | 湊 雅之" xmlUrl="https://note.mu/minato1014/rss" htmlUrl="https://note.com/minato1014"/>
+            <outline type="rss" text="仙石浩明の日記" title="仙石浩明の日記" xmlUrl="http://www.gcd.org/blog/feed/" htmlUrl="https://www.gcd.org/blog"/>
+            <outline type="rss" text="All posts | .ごっちの日記" title="All posts | .ごっちの日記" xmlUrl="https://yutagoto.github.io/blog/rss.xml" htmlUrl="https://yutagoto.github.io"/>
+            <outline type="rss" text="チャーリー！のテクメモ" title="チャーリー！のテクメモ" xmlUrl="http://charleysdiary.hatenablog.com/feed" htmlUrl="https://charleysdiary.hatenablog.com/"/>
+            <outline type="rss" text="Big Sky" title="Big Sky" xmlUrl="http://mattn.kaoriya.net/index.rss" htmlUrl="https://mattn.kaoriya.net/"/>
+            <outline type="rss" text="技術探し" title="技術探し" xmlUrl="http://abouthiroppy.hatenablog.jp/feed" htmlUrl="https://blog.hiroppy.me/"/>
+            <outline type="rss" text="みずりゅの自由帳" title="みずりゅの自由帳" xmlUrl="https://mzryuka.hatenablog.jp/feed" htmlUrl="https://mzryuka.hatenablog.jp/"/>
+            <outline type="rss" text="Stories by mocobeta on Medium" title="Stories by mocobeta on Medium" xmlUrl="https://medium.com/feed/@mocobeta" htmlUrl="https://medium.com/@mocobeta?source=rss-5cc160b9d64b------2"/>
+            <outline type="rss" text="Stories by Aki Ariga on Medium" title="Stories by Aki Ariga on Medium" xmlUrl="https://medium.com/feed/@chezou" htmlUrl="https://medium.com/@chezou?source=rss-d2572dc96c55------2"/>
+            <outline type="rss" text="Konifar's ZATSU" title="Konifar's ZATSU" xmlUrl="http://konifar-zatsu.hatenadiary.jp/rss" htmlUrl="https://konifar-zatsu.hatenadiary.jp/"/>
+            <outline type="rss" text="おそらくはそれさえも平凡な日々" title="おそらくはそれさえも平凡な日々" xmlUrl="http://www.songmu.jp/riji/atom.xml" htmlUrl="https://songmu.jp/riji/"/>
+            <outline type="rss" text="Magnolia Tech" title="Magnolia Tech" xmlUrl="https://blog.magnolia.tech/rss" htmlUrl="https://blog.magnolia.tech/"/>
+            <outline type="rss" text="なるせにっき" title="なるせにっき" xmlUrl="http://d.hatena.ne.jp/nurse/rss" htmlUrl="https://naruse.hateblo.jp/"/>
+            <outline type="rss" text="mizchi's blog" title="mizchi's blog" xmlUrl="http://mizchi.hatenablog.com/feed" htmlUrl="https://mizchi.hatenablog.com/"/>
+            <outline type="rss" text="世界線航跡蔵" title="世界線航跡蔵" xmlUrl="http://yugui.jp/articles/recent.rss" htmlUrl="https://blog.yugui.jp/"/>
+            <outline type="rss" text="941::blog" title="941::blog" xmlUrl="http://blog.kushii.net/index.rdf" htmlUrl="https://blog.kushii.net/"/>
+            <outline type="rss" text="そこはかとなく" title="そこはかとなく" xmlUrl="http://scoto.hatenablog.com/feed" htmlUrl="https://scoto.hatenablog.com/"/>
+            <outline type="rss" text="ASMのきもち" title="ASMのきもち" xmlUrl="https://tomomo1015.hatenablog.com/feed" htmlUrl="https://tomomo1015.hatenablog.com/"/>
+            <outline type="rss" text="ククログ" title="ククログ" xmlUrl="http://www.clear-code.com/blog/index.rdf" htmlUrl="https://www.clear-code.com/blog/"/>
+            <outline type="rss" text="ねこものがたり" title="ねこものがたり" xmlUrl="http://neko314.hatenablog.com/feed" htmlUrl="https://neko314.hatenablog.com/"/>
+            <outline type="rss" text="nがひとつ多い。" title="nがひとつ多い。" xmlUrl="https://nnao45.hatenadiary.com/feed" htmlUrl="https://nnao45.hatenadiary.com/"/>
+            <outline type="rss" text="higepon blog" title="higepon blog" xmlUrl="http://d.hatena.ne.jp/higepon/rss" htmlUrl="https://higepon.hatenablog.com/"/>
+            <outline type="rss" text="メソッド屋のブログ" title="メソッド屋のブログ" xmlUrl="http://simplearchitect.hatenablog.com/rss" htmlUrl="https://simplearchitect.hatenablog.com/"/>
+            <outline type="rss" text="八発白中" title="八発白中" xmlUrl="http://e-arrows.sakura.ne.jp/atom.xml" htmlUrl="https://blog.8arrow.org/"/>
+            <outline type="rss" text="そーだいなるらくがき帳" title="そーだいなるらくがき帳" xmlUrl="http://soudai.hatenablog.com/feed" htmlUrl="https://soudai.hatenablog.com/"/>
+            <outline type="rss" text="$shibayu36-&gt;blog;" title="$shibayu36-&gt;blog;" xmlUrl="http://shibayu36.hatenablog.com/feed" htmlUrl="https://blog.shibayu36.org/"/>
+            <outline type="rss" text="覚書" title="覚書" xmlUrl="http://satoru-takeuchi.hatenablog.com/feed" htmlUrl="https://satoru-takeuchi.hatenablog.com/"/>
+            <outline type="rss" text="もずはっく日記の更新情報" title="もずはっく日記の更新情報" xmlUrl="http://www.d-toybox.com/studio/weblog/show.php?mode=rss&amp;ver=2.0" htmlUrl="https://d-toybox.com/studio/weblog/show.php"/>
+            <outline type="rss" text="import ayatokura as hack" title="import ayatokura as hack" xmlUrl="http://ayatokura.hatenablog.com/feed" htmlUrl="https://ayatokura.hatenablog.com/"/>
+            <outline type="rss" text="たつをの ChangeLog" title="たつをの ChangeLog" xmlUrl="http://nais.to/~yto/clog/cl.rdf" htmlUrl="https://chalow.net/"/>
+        </outline>
+        <outline text="Teckbook" title="Teckbook">
+            <outline type="rss" text="gihyo.jp：DEVELOPER STAGE" title="gihyo.jp：DEVELOPER STAGE" xmlUrl="http://rss.rssad.jp/rss/gihyo/dev/feed/rss2" htmlUrl="https://gihyo.jp/dev"/>
+        </outline>
+        <outline text="Security" title="Security">
+            <outline type="rss" text="wizSafe Security Signal -安心・安全への道標- IIJ" title="wizSafe Security Signal -安心・安全への道標- IIJ" xmlUrl="https://wizsafe.iij.ad.jp/feed/" htmlUrl="https://wizsafe.iij.ad.jp"/>
+            <outline type="rss" text="徳丸浩の日記" title="徳丸浩の日記" xmlUrl="http://blog.tokumaru.org/feeds/posts/default" htmlUrl="https://blog.tokumaru.org/"/>
+            <outline type="rss" text="高木浩光＠自宅の日記" title="高木浩光＠自宅の日記" xmlUrl="http://takagi-hiromitsu.jp/diary/index.rdf" htmlUrl="http://takagi-hiromitsu.jp/diary/"/>
+            <outline type="rss" text="security.sios.com" title="security.sios.com" xmlUrl="https://security.sios.com/atom.xml" htmlUrl="https://security.sios.com/"/>
+        </outline>
+        <outline text="TechNews" title="TechNews">
+            <outline type="rss" text="Publickey" title="Publickey" xmlUrl="http://www.publickey1.jp/atom.xml" htmlUrl="https://www.publickey1.jp/"/>
+            <outline type="rss" text="InfoQ" title="InfoQ" xmlUrl="https://feed.infoq.com/" htmlUrl="https://www.infoq.com"/>
+            <outline type="rss" text="POSTD | ニジボックスが運営するエンジニアに向けたキュレーションメディア" title="POSTD | ニジボックスが運営するエンジニアに向けたキュレーションメディア" xmlUrl="http://postd.cc/feed/" htmlUrl="https://postd.cc"/>
+            <outline type="rss" text="MOONGIFT" title="MOONGIFT" xmlUrl="http://feeds.feedburner.com/moongift" htmlUrl="http://www.moongift.jp/"/>
+            <outline type="rss" text="Rebuild" title="Rebuild" xmlUrl="http://feeds.rebuild.fm/rebuildfm" htmlUrl="https://rebuild.fm"/>
+        </outline>
+        <outline text="Design" title="Design">
+            <outline type="rss" text="to-R" title="to-R" xmlUrl="http://blog.webcreativepark.net/atom.xml" htmlUrl="https://blog.webcreativepark.net/"/>
+            <outline type="rss" text="Design Milk" title="Design Milk" xmlUrl="http://feeds.feedburner.com/design-milk" htmlUrl="https://design-milk.com"/>
+            <outline type="rss" text="遊び人ブログ｜あそび師Kaiの色とりどりな日々🌟" title="遊び人ブログ｜あそび師Kaiの色とりどりな日々🌟" xmlUrl="http://mym-core.niteandday.tokyo/feed/" htmlUrl="https://mym-core.niteandday.tokyo"/>
+            <outline type="rss" text="100%LiFE (web magazine of Magazine House" title="100%LiFE (web magazine of Magazine House" xmlUrl="http://100life.jp/feed/" htmlUrl="https://100life.jp/"/>
+            <outline type="rss" text="Webクリエイターボックス" title="Webクリエイターボックス" xmlUrl="http://www.webcreatorbox.com/feed/" htmlUrl="https://www.webcreatorbox.com"/>
+        </outline>
+        <outline text="Bookmark" title="Bookmark"/>
+        <outline text="Economy" title="Economy">
+            <outline type="rss" text="山形浩生の「経済のトリセツ」" title="山形浩生の「経済のトリセツ」" xmlUrl="http://d.hatena.ne.jp/wlj-Friday/rss" htmlUrl="https://cruel.hatenablog.com/"/>
+            <outline type="rss" text="市況かぶ全力２階建" title="市況かぶ全力２階建" xmlUrl="http://kabumatome.doorblog.jp/index.rdf" htmlUrl="https://kabumatome.doorblog.jp/"/>
+            <outline type="rss" text="経済学101" title="経済学101" xmlUrl="http://econ101.jp/feed/" htmlUrl="https://econ101.jp"/>
+            <outline type="rss" text="道草" title="道草" xmlUrl="http://econdays.net/?feed=rss2" htmlUrl="http://econdays.net"/>
+            <outline type="rss" text="On Off and Beyond" title="On Off and Beyond" xmlUrl="http://chikawatanabe.com/feed/" htmlUrl="https://chikawatanabe.com"/>
+        </outline>
+        <outline text="Tech" title="Tech">
+            <outline type="rss" text="LCL Engineers' Blog" title="LCL Engineers' Blog" xmlUrl="http://techblog.lclco.com/feed" htmlUrl="https://techblog.lclco.com/"/>
+            <outline type="rss" text="Retty Tech Blog" title="Retty Tech Blog" xmlUrl="http://engineer.retty.me/feed" htmlUrl="https://engineer.retty.me/"/>
+            <outline type="rss" text="Engineers' Blog" title="Engineers' Blog" xmlUrl="https://moneyforward.com/engineers_blog/feed/" htmlUrl="https://moneyforward.com/engineers_blog"/>
+            <outline type="rss" text="SmartHR Tech Blog" title="SmartHR Tech Blog" xmlUrl="http://tech.smarthr.jp/feed" htmlUrl="https://tech.smarthr.jp/"/>
+            <outline type="rss" text="PLAID Engineer Blog" title="PLAID Engineer Blog" xmlUrl="http://tech.plaid.co.jp/rss/" htmlUrl="https://tech.plaid.co.jp/"/>
+            <outline type="rss" text="エンジニアブログ | GREE Engineering" title="エンジニアブログ | GREE Engineering" xmlUrl="http://labs.gree.jp/blog/feed/" htmlUrl="https://labs.gree.jp/blog"/>
+            <outline type="rss" text="SmartNews Engineering Blog" title="SmartNews Engineering Blog" xmlUrl="https://developer.smartnews.com/blog/feed" htmlUrl="https://developer.smartnews.com/blog/"/>
+            <outline type="rss" text="ペパボテックブログ" title="ペパボテックブログ" xmlUrl="http://tech.pepabo.com/feed.xml" htmlUrl="https://tech.pepabo.com/"/>
+            <outline type="rss" text="てくろぐ" title="てくろぐ" xmlUrl="http://techlog.iij.ad.jp/feed" htmlUrl="https://techlog.iij.ad.jp"/>
+            <outline type="rss" text="Eureka Engineering" title="Eureka Engineering" xmlUrl="https://medium.com/feed/eureka-engineering" htmlUrl="https://medium.com/eureka-engineering?source=rss----5c512e0ddc60---4"/>
+            <outline type="rss" text="Gunosy Tech Blog" title="Gunosy Tech Blog" xmlUrl="http://tech.gunosy.io/rss" htmlUrl="https://tech.gunosy.io/"/>
+            <outline type="rss" text="IBM Developer Japan" title="IBM Developer Japan" xmlUrl="http://www.ibm.com/developerworks/jp/rss/dw_dwjp.xml" htmlUrl="http://www.ibm.com/developerworks/jp/index.html?ca=drs-jp"/>
+            <outline type="rss" text="エンジニアブログ – GMOインターネットグループ 次世代システム研究室" title="エンジニアブログ – GMOインターネットグループ 次世代システム研究室" xmlUrl="http://recruit.gmo.jp/engineer/jisedai/blog/feed/" htmlUrl="https://recruit.gmo.jp/engineer/jisedai"/>
+            <outline type="rss" text="DevelopersIO" title="DevelopersIO" xmlUrl="http://dev.classmethod.jp/feed/" htmlUrl="https://dev.classmethod.jp"/>
+            <outline type="rss" text="Tech Inside Drecom" title="Tech Inside Drecom" xmlUrl="https://tech.drecom.co.jp/feed/" htmlUrl="https://tech.drecom.co.jp"/>
+            <outline type="rss" text="一休.com Developers Blog" title="一休.com Developers Blog" xmlUrl="http://user-first.ikyu.co.jp/rss" htmlUrl="https://user-first.ikyu.co.jp/"/>
+            <outline type="rss" text="Netflix TechBlog" title="Netflix TechBlog" xmlUrl="https://netflixtechblog.com/feed" htmlUrl="https://netflixtechblog.com?source=rss----2615bd06b42e---4"/>
+            <outline type="rss" text="クラウドワークス エンジニアブログ" title="クラウドワークス エンジニアブログ" xmlUrl="http://engineer.crowdworks.jp/feed" htmlUrl="https://engineer.crowdworks.jp/"/>
+            <outline type="rss" text="LINE ENGINEERING" title="LINE ENGINEERING" xmlUrl="https://engineering.linecorp.com/ja/blog/rss2" htmlUrl="https://engineering.linecorp.com/ja/"/>
+            <outline type="rss" text="Google Japan Developer Relations Blog" title="Google Japan Developer Relations Blog" xmlUrl="http://googledevjp.blogspot.com/feeds/posts/default?alt=rss" htmlUrl="http://developers-jp.googleblog.com/"/>
+            <outline type="rss" text="DeNA Engineers' Blog" title="DeNA Engineers' Blog" xmlUrl="https://engineer.dena.com/index.xml" htmlUrl="https://engineer.dena.com/"/>
+            <outline type="rss" text="ZOZO Technologies TECH BLOG" title="ZOZO Technologies TECH BLOG" xmlUrl="http://tech.vasily.jp/rss" htmlUrl="https://techblog.zozo.com/"/>
+            <outline type="rss" text="Speee DEVELOPER BLOG" title="Speee DEVELOPER BLOG" xmlUrl="http://technica.speee.jp/feed" htmlUrl="https://tech.speee.jp/"/>
+            <outline type="rss" text="CyberAgent Developers Blog" title="CyberAgent Developers Blog" xmlUrl="https://developers.cyberagent.co.jp/blog/feed/" htmlUrl="https://developers.cyberagent.co.jp/blog"/>
+            <outline type="rss" text="スタディサプリ Product Team Blog" title="スタディサプリ Product Team Blog" xmlUrl="http://quipper.hatenablog.com/rss" htmlUrl="https://blog.studysapuri.jp/"/>
+            <outline type="rss" text="エンジニア – CyberAgent Developers Blog | サイバーエージェント デベロッパーズブログ" title="エンジニア – CyberAgent Developers Blog | サイバーエージェント デベロッパーズブログ" xmlUrl="https://developers.cyberagent.co.jp/blog/archives/category/engineer/feed/" htmlUrl="https://developers.cyberagent.co.jp/blog"/>
+            <outline type="rss" text="Spotify Engineering" title="Spotify Engineering" xmlUrl="http://labs.spotify.com/feed/" htmlUrl="https://engineering.atspotify.com"/>
+            <outline type="rss" text="Medium Engineering" title="Medium Engineering" xmlUrl="https://medium.engineering/feed" htmlUrl="https://medium.engineering?source=rss----2817475205d3---4"/>
+            <outline type="rss" text="Slack Engineering" title="Slack Engineering" xmlUrl="https://slack.engineering/feed" htmlUrl="https://slack.engineering"/>
+            <outline type="rss" text="LinkedIn Engineering" title="LinkedIn Engineering" xmlUrl="https://engineering.linkedin.com/blog.rss.html" htmlUrl="https://engineering.linkedin.com/blog.rss.html"/>
+            <outline type="rss" text="Uzabase Tech" title="Uzabase Tech" xmlUrl="http://tech.uzabase.com/feed" htmlUrl="https://tech.uzabase.com/"/>
+            <outline type="rss" text="freee Developers Blog" title="freee Developers Blog" xmlUrl="http://developers.freee.co.jp/feed" htmlUrl="https://developers.freee.co.jp/"/>
+            <outline type="rss" text="クックパッド開発者ブログ" title="クックパッド開発者ブログ" xmlUrl="http://techlife.cookpad.com/feed/" htmlUrl="https://techlife.cookpad.com/"/>
+            <outline type="rss" text="pixiv inside" title="pixiv inside" xmlUrl="http://inside.pixiv.blog/feed" htmlUrl="https://inside.pixiv.blog/"/>
+            <outline type="rss" text="Kaizen Platform 開発者ブログ" title="Kaizen Platform 開発者ブログ" xmlUrl="http://developer.kaizenplatform.com/feed" htmlUrl="https://developer.kaizenplatform.com/"/>
+            <outline type="rss" text="DeNA Testing Blog" title="DeNA Testing Blog" xmlUrl="http://swet.dena.com/feed" htmlUrl="https://swet.dena.com/"/>
+            <outline type="rss" text="さくらのナレッジ is_page" title="さくらのナレッジ is_page" xmlUrl="http://knowledge.sakura.ad.jp/feed/" htmlUrl="https://knowledge.sakura.ad.jp/tags/is_page/"/>
+            <outline type="rss" text="Akatsuki Hackers Lab | 株式会社アカツキ（Akatsuki Inc.)" title="Akatsuki Hackers Lab | 株式会社アカツキ（Akatsuki Inc.)" xmlUrl="http://hackerslab.aktsk.jp/feed" htmlUrl="https://hackerslab.aktsk.jp/"/>
+            <outline type="rss" text="The GitHub Blog" title="The GitHub Blog" xmlUrl="https://github.com/blog/all.atom" htmlUrl="https://github.blog"/>
+            <outline type="rss" text="Nulab (Japanese)" title="Nulab (Japanese)" xmlUrl="http://nulab-inc.com/ja/feed/" htmlUrl="https://nulab.com/ja"/>
+            <outline type="rss" text="ABEJA Tech Blog" title="ABEJA Tech Blog" xmlUrl="http://tech-blog.abeja.asia/feed" htmlUrl="https://tech-blog.abeja.asia/"/>
+            <outline type="rss" text="BASEプロダクトチームブログ" title="BASEプロダクトチームブログ" xmlUrl="http://devblog.thebase.in/rss" htmlUrl="https://devblog.thebase.in/"/>
+            <outline type="rss" text="Recruit Engineer" title="Recruit Engineer" xmlUrl="http://engineer.recruit-lifestyle.co.jp/techblog/feed.xml" htmlUrl="https://engineer.recruit-lifestyle.co.jp/techblog"/>
+            <outline type="rss" text="Redmine.JP Blog" title="Redmine.JP Blog" xmlUrl="http://blog.redmine.jp/feed.xml" htmlUrl="http://blog.redmine.jp/"/>
+            <outline type="rss" text="Office Support Team Blog JAPAN" title="Office Support Team Blog JAPAN" xmlUrl="https://blogs.technet.microsoft.com/officesupportjp/feed/" htmlUrl="https://docs.microsoft.com/archive/blogs/officesupportjp/feed.xml"/>
+            <outline type="rss" text="VOYAGE GROUP techlog" title="VOYAGE GROUP techlog" xmlUrl="http://techlog.voyagegroup.com/rss" htmlUrl="https://techlog.voyagegroup.com/"/>
+            <outline type="rss" text="Google Japan Blog" title="Google Japan Blog" xmlUrl="http://feeds2.feedburner.com/GoogleJapanBlog" htmlUrl="http://japan.googleblog.com/"/>
+            <outline type="rss" text="Engineering at Meta" title="Engineering at Meta" xmlUrl="https://code.facebook.com/posts/rss" htmlUrl="https://engineering.fb.com"/>
+            <outline type="rss" text="Microsoft Security Response Center" title="Microsoft Security Response Center" xmlUrl="http://blogs.technet.com/msrc/rss.xml" htmlUrl="https://msrc-blog.microsoft.com"/>
+            <outline type="rss" text="SoundCloud Backstage Blog" title="SoundCloud Backstage Blog" xmlUrl="http://developers.soundcloud.com/blog.rss" htmlUrl="https://developers.soundcloud.com/blog"/>
+            <outline type="rss" text="Hatena::Engineering" title="Hatena::Engineering" xmlUrl="http://d.hatena.ne.jp/hatenatech/rss" htmlUrl="https://developer.hatenastaff.com/"/>
+            <outline type="rss" text="Dropbox Tech Blog" title="Dropbox Tech Blog" xmlUrl="https://tech.dropbox.com/feed/" htmlUrl="https://dropboxtechblog.wordpress.com"/>
+            <outline type="rss" text="Yahoo! JAPAN Tech Blog" title="Yahoo! JAPAN Tech Blog" xmlUrl="http://techblog.yahoo.co.jp/atom.xml" htmlUrl="https://techblog.yahoo.co.jp/"/>
+            <outline type="rss" text="メルカリエンジニアリングブログ" title="メルカリエンジニアリングブログ" xmlUrl="https://engineering.mercari.com/blog/feed.xml" htmlUrl="https://engineering.mercari.com/blog/feed.xml"/>
+            <outline type="rss" text="Visional Engineering Blog" title="Visional Engineering Blog" xmlUrl="https://tech.bizreach.co.jp/index.xml" htmlUrl="https://engineering.visional.inc/"/>
+            <outline type="rss" text="エニグモ開発者ブログ" title="エニグモ開発者ブログ" xmlUrl="https://tech.enigmo.co.jp/feed" htmlUrl="https://tech.enigmo.co.jp/"/>
+            <outline type="rss" text="Project Zero" title="Project Zero" xmlUrl="http://googleprojectzero.blogspot.com/feeds/posts/default" htmlUrl="https://googleprojectzero.blogspot.com/"/>
+            <outline type="rss" text="TwitterDev" title="TwitterDev" xmlUrl="https://dev.to/feed/twitterdev" htmlUrl="https://dev.to/twitterdev"/>
+            <outline type="rss" text="エムスリーテックブログ" title="エムスリーテックブログ" xmlUrl="http://www.m3tech.blog/feed" htmlUrl="https://www.m3tech.blog/"/>
+            <outline type="rss" text="GMO MEDIA CREATOR BLOG" title="GMO MEDIA CREATOR BLOG" xmlUrl="https://blog.gmo.media/feed/" htmlUrl="https://blog.gmo.media"/>
+            <outline type="rss" text="Cybozu Inside Out" title="Cybozu Inside Out" xmlUrl="http://developer.cybozu.co.jp/tech/atom.xml" htmlUrl="https://blog.cybozu.io/"/>
+        </outline>
+    </body>
+</opml>
